@@ -49,7 +49,7 @@ To run this project, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/chat-application-using-java.git
+   git clone https://github.com/omraje2424/chat-application-using-java.git
    ```
 
 2. **Database Setup**:
@@ -103,12 +103,18 @@ CREATE TABLE IF NOT EXISTS chat_messages (
 
 
 ## Screenshots
-![Screenshot 2024-10-21 204900](https://github.com/user-attachments/assets/4bca82c3-a8e5-40a8-b0d5-e69c70cbc64b)
+![Screenshot 2024-10-21 204603](https://github.com/user-attachments/assets/d723f761-14c0-4bea-9ed5-ee04a28991f9)
+
 ![Screenshot 2024-10-21 204653](https://github.com/user-attachments/assets/816c5668-8117-4c0a-adbf-2f3683d8f686)
+
 ![Screenshot 2024-10-21 204739](https://github.com/user-attachments/assets/d247107c-6813-4fc7-8be4-112ac1d4231e)
+
 ![Screenshot 2024-10-21 204823](https://github.com/user-attachments/assets/a8daf207-5064-48ce-a2ee-e734627b1857)
+
 ![Screenshot 2024-10-21 204900](https://github.com/user-attachments/assets/8fc539b5-bde8-42a9-b787-f64018d0e4e7)
+
 ![Screenshot 2024-10-21 204943](https://github.com/user-attachments/assets/5f75212a-a4c8-4e88-847c-0b8528ffca88)
+
 ![Screenshot 2024-10-21 205028](https://github.com/user-attachments/assets/340ee0b5-7f25-4442-81d5-8c5d82e8f7a4)
 
 
